@@ -91,7 +91,7 @@ export const PARTY_OPTIONS: BacheloretteOption[] = [
       ,
     ],
     costs: [
-      { label: "Costo totale casa", value: "€ 1280" },
+      { label: "Costo totale casa", value: "€ 1280 (~85 a testa)" },
       { label: "Ingresso terme Vip (tutto il giorno incluso kit spa)", value: "€ 65" },
     ],
     availability: "febbraio - marzo",
@@ -104,15 +104,12 @@ export const PARTY_OPTIONS: BacheloretteOption[] = [
     location: "Toscana",
     imageSrc: "https://cf.bstatic.com/xdata/images/hotel/max300/4536919.jpg?k=78df0e55a9782629b87b06272766457b211089e5f7db086cb0f505059a6a2fd9&o=",
     details: [
-      "xxx",
-      "xxx",
-      "xxx",
-      
-      ,
+      "Colazione inclusa",
+      "Vicino a Terme di Rapolano",
     ],
     costs: [
-      { label: "Costo totale casa", value: "€ xxx" },
-      { label: "Ingresso terme Vip (tutto il giorno incluso kit spa)", value: "€ xx" },
+      { label: "Costo totale casa", value: "€ 800 (~53 a testa)" },
+      { label: "Ingresso terme Vip (tutto il giorno incluso kit spa)", value: "€ 65" },
     ],
     availability: "febbraio - marzo",
     websiteUrl: "https://www.booking.com/hotel/it/podere-la-chiusella.it.html?aid=1595955&label=viam%7Csearch_extension%7Cit%7Citinerary.search%7Cdesktop%7C%7CRoma%7C%7C%7COff%7C%7C%7C%7C%7C%7C%7C1762609581979%7Citinerary_edit%7C&sid=d8dbf878e24471869f09c3d8f48b42d7&all_sr_blocks=23699107_326133259_4_0_0%2C23699105_326133259_3_0_0%2C23699110_326133259_7_0_0&checkin=2026-03-14&checkout=2026-03-15&dest_id=-126112&dest_type=city&dist=0&group_adults=14&group_children=0&hapos=2&highlighted_blocks=23699107_326133259_4_0_0%2C23699105_326133259_3_0_0%2C23699110_326133259_7_0_0&hpos=2&matching_block_id=23699107_326133259_4_0_0&no_rooms=1&req_adults=14&req_children=0&room1=A%2CA%2CA%2CA%2CA%2CA%2CA%2CA%2CA%2CA%2CA%2CA%2CA%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=23699107_326133259_4_0_0__20031%2C23699105_326133259_3_0_0__15563%2C23699110_326133259_7_0_0__40420&srepoch=1762806608&srpvid=725b8fa535b40222&type=total&ucfs=1&#hotelTmpl",
