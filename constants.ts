@@ -7,7 +7,7 @@ export const PARTY_OPTIONS: BacheloretteOption[] = [
     id: "torre-del-nera",
     title: "Torre del Nera",
     location: "Umbria",
-    imageSrc: "https://picsum.photos/id/1045/400/300",
+    imageSrc: "https://www.torredelnera.it/wp-content/uploads/2022/11/hotel-diffuso-spa-torre-del-nera-scheggino-umbria-valnerina.jpg",
     details: [
       "Camere distribuite nel borgo medievale",
       "Pernotto e prima colazione inclusi",
@@ -26,7 +26,7 @@ export const PARTY_OPTIONS: BacheloretteOption[] = [
     id: "orto-delle-terme",
     title: "Orto delle Terme",
     location: "Toscana",
-    imageSrc: "https://picsum.photos/id/1015/400/300",
+    imageSrc: "https://www.albergoleterme.it/uploads/ortodelleterme_007.jpg",
     details: [
       "Camere eleganti con colazione",
       "Accesso illimitato al centro benessere",
@@ -43,7 +43,7 @@ export const PARTY_OPTIONS: BacheloretteOption[] = [
     id: "castel-petroso",
     title: "Castel Petroso",
     location: "Molise",
-    imageSrc: "https://picsum.photos/id/1047/400/300",
+    imageSrc: "https://fontedelbenessereresort.it/img/config/sections/2/castelpetroso.jpeg",
     details: [
       "5 suite disponibili (ognuna per 3 persone)",
       "Colazione inclusa nel prezzo",
@@ -63,7 +63,7 @@ export const PARTY_OPTIONS: BacheloretteOption[] = [
     id: "borgo-tufi",
     title: "Borgo Tufi",
     location: "Molise",
-    imageSrc: "https://picsum.photos/id/1043/400/300",
+    imageSrc: "https://www.borgotufi.it/images/borgotufi.jpg",
     details: [
       "3 casette per 3 persone e 3 camere da 2.",
       "Colazione inclusa",
