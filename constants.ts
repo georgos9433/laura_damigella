@@ -77,5 +77,25 @@ export const PARTY_OPTIONS: BacheloretteOption[] = [
     availability: "28/02 - 01/03",
     websiteUrl: "https://www.borgotufi.it/",
     distanceFromRome: "~2h 30min"
+  },
+  {
+    id: "villa-della-luce-dorata",
+    title: "Villa della luce dorata",
+    location: "Toscana",
+    imageSrc: "https://a0.muscache.com/im/pictures/prohost-api/Hosting-942620410116084756/original/d99dfda1-1f1d-455c-8aa1-0cb344153c51.jpeg?im_w=960",
+    details: [
+      "Casa intera per 15 persone",
+      "Colazione inclusa",
+      "Possibilità di pranzo e cena",
+      "Vicino alle Terme di Rapolano"
+      ,
+    ],
+    costs: [
+      { label: "Costo totale casa", value: "€ 1280" },
+      { label: "Ingresso terme Vip (tutto il giorno incluso kit spa)", value: "€ 65" },
+    ],
+    availability: "28/02 - 01/03",
+    websiteUrl: "https://www.airbnb.it/rooms/942620410116084756?adults=15&check_in=2026-02-14&check_out=2026-02-15&search_mode=regular_search&source_impression_id=p3_1762804975_P3xw3yK8uxdJK1J9&previous_page_section_name=1000&federated_search_id=d51808f2-19b4-4de2-b86b-d799d2f233e7",
+    distanceFromRome: "~2h 30min"
   }
 ];
