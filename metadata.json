@@ -1,0 +1,5 @@
+{
+  "name": "Bachelorette Party Planner",
+  "description": "A web page to present and vote on options for a bachelorette party, based on a provided script. It features three different locations with details on cost, services, and availability.",
+  "requestFramePermissions": []
+}
